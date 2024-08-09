@@ -103,10 +103,7 @@ def main() -> None:
 
     st.markdown(css_code, unsafe_allow_html=True)
 
-    with st.sidebar:
-        st.image("img/gkj.jpg")
-        st.write("---")
-        st.write("AI App created by @ Gurpreet Kaur")
+
 
     st.header("Image-to-Story Converter")
     uploaded_file: Any = st.file_uploader("Please choose a file to upload", type="jpg")
