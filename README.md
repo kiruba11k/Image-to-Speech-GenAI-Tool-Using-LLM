@@ -3,11 +3,8 @@ AI tool that generates an Audio short story based on the context of an uploaded 
 
 ## 📢Run App with Streamlit Cloud
 
-[Launch App On Streamlit](https://image-to-speech-genai-tool-using-llm.streamlit.app/)
+[Launch App On Streamlit](https://img2speech.streamlit.app/)
 
-## 📢Run App with HuggingFace Space Cloud
-
-[Launch App On HuggingFace Space](https://huggingface.co/spaces/GurpreetKJ/Image-to-SpeechStory_GenAI-Tool)
 
 
 ## 🎯 Demo:
@@ -72,7 +69,7 @@ You can listen respective audio file of this test image on respective `img-audio
 
 Clone the repository:
 
-`git clone https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM.git`
+`https://github.com/kiruba11k/Image-to-Speech-GenAI-Tool-Using-LLM.git`
 
 Install the required Python packages:
 
@@ -88,13 +85,4 @@ Run the Streamlit app:
 `streamlit run app.py`
 
 
-## ©️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-#### **If you like this LLM Project do drop ⭐ to this repo and Contributions are welcome! If you have any suggestions for improving this AI Img-Speech Converter, please submit a pull request.💁**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
-
----
+## Credits : GurpreetKJ
